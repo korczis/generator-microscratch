@@ -1,4 +1,4 @@
-# generator-microscratch [![Build Status](https://secure.travis-ci.org/ApolloCrawler/generator-microscratch.png?branch=master)](https://travis-ci.org/ApolloCrawler/generator-microscratch)
+# generator-microscratch 
 
 A generator for [Yeoman](http://yeoman.io).
 
